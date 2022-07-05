@@ -28,8 +28,8 @@ section{
       font-weight: 900;
       text-decoration: none;
       background-image: linear-gradient(purple, blue);
-      padding: 10px 40px;
-      border-radius: 12px;
+      padding: 20px 50px;
+      border-radius: 0px;
 
 }
 #sec-2{
@@ -71,4 +71,54 @@ section{
 .top{
       margin-left: 20%;
       
+}
+.second-change{
+      width: 55%;
+      margin-left: 5%;
+      margin-right: 5%;
+       box-shadow: 10px 20px 40px rgb(173, 167, 152);
+       border-radius: 20px;
+}
+.second-change img{
+    
+      margin-top: 5%;
+      margin-left: 5%;
+     width: 80%;
+      padding: 40px;
+
+}
+.second-change h1{
+      text-align: center;
+     
+
+}
+.second-change p{
+text-align: justify;
+
+margin-left: 5%;
+margin-right: 5%;
+        
+}
+.box{
+      width: 90%;
+      margin-top:5% ;
+      margin-left: 5%;
+      box-shadow: 10px 2px 40px rgb(154, 152, 144);
+      border-radius: 20px;
+}
+.tuttut{
+     
+     margin: auto;
+}
+.last{
+      background-color: black;
+   
+      margin-top: 100px;
+      padding: 40px;
+  
+}
+.eatt{
+      color: tomato;
+      text-align: center;
+
 }
