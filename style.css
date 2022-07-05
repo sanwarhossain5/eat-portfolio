@@ -1,0 +1,74 @@
+h1{
+      font-family: 'Poppins', sans-serif;
+      font-family: 'Rubik Moonrocks', cursive;
+      color: crimson;
+      font-size: 40px;
+}
+p{
+      font-size: large;
+      color: rgb(231, 6, 100);
+}
+.orange-color{
+      color: orange;
+}
+section{
+      display: flex;
+}
+.first-change{
+      width: 50%;
+      padding-left: 5%;
+}
+.first-change img{
+      width: 80%;
+
+}
+.link-button{
+      color: white;
+      font-style: italic;
+      font-weight: 900;
+      text-decoration: none;
+      background-image: linear-gradient(purple, blue);
+      padding: 10px 40px;
+      border-radius: 12px;
+
+}
+#sec-2{
+      display: flex;
+      background-image: url(image/7.png);
+      background-repeat: no-repeat;
+      background-size: 100%;
+      margin-top: 50px;
+
+      
+
+}
+.sec-3{
+      width: 50%;
+
+}
+.sec-3 img{
+      width: 50%;
+      margin-left: 10%;
+}
+.sec-3 h1{
+      margin-top: 5%;
+      font-size: 3em;
+      margin-left: 20%;
+}
+.sec-3 p{
+      max-width: 500px;
+      text-align: justify;
+      margin-left: 20%;
+}
+.sec-4{
+      text-align: center;
+}
+.sec-4 p{
+      max-width: 500px;
+      text-align: justify;
+      margin-left: 36%;
+}
+.top{
+      margin-left: 20%;
+      
+}
