@@ -107,18 +107,27 @@ margin-right: 5%;
       border-radius: 20px;
 }
 .tuttut{
+      margin: auto;
      
-     margin: auto;
+ 
 }
 .last{
-      background-color: black;
-   
+      text-align: center;
+      margin: auto;
+      color: gray;
+      font-size: 30px;
+      
+
+}
+.section{
       margin-top: 100px;
       padding: 40px;
-  
-}
-.eatt{
-      color: tomato;
-      text-align: center;
+      background-color: black;
 
+}
+.one{
+      color: tomato;
+}
+.last p{
+      color: white;
 }
